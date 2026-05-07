@@ -159,22 +159,27 @@ streamlit run dashboard_230104040221.py
 ## 🧪 Hasil Pengujian
 
 ### ✅ Screenshot Terminal Parquet Berhasil
+---
 
-```text
-./screenshots/parquet-success.png
-```
+<img width="1920" height="1008" alt="UTS_Terminal" src="https://github.com/user-attachments/assets/5f884d21-b81f-440c-80d6-7dcf17243b87" />
 
-![Parquet Success](./screenshots/parquet-success.png)
+---
+### ✅ Screenshot Dashboard Streamlit
+---
+
+<img width="1920" height="1008" alt="UTS_Pharmacy" src="https://github.com/user-attachments/assets/3de72fa4-5c29-4d69-9d4a-fef92ee4c6c7" />
+<img width="1902" height="280" alt="UTS_Pharmacyy" src="https://github.com/user-attachments/assets/16c49431-6536-4720-8656-e03a2d8291e4" />
+<img width="1920" height="1008" alt="UTS_Emergency" src="https://github.com/user-attachments/assets/88893a12-a78f-4d11-b7e4-89167115ebcd" />
+<img width="1862" height="266" alt="UTS_Emergencyy" src="https://github.com/user-attachments/assets/2513e3fa-5c70-47ff-a376-e987b942adf5" />
+<img width="1920" height="1008" alt="UTS_ICU" src="https://github.com/user-attachments/assets/5eb19fc3-b9fc-47ae-b9a0-a1b6438e36af" />
+<img width="1889" height="246" alt="UTS_ICUU" src="https://github.com/user-attachments/assets/9efaff53-437e-444b-93fe-d66867fb59f9" />
 
 ---
 
-### ✅ Screenshot Dashboard Streamlit
+### ✅ Screenshot Spark
+---
 
-```text
-./screenshots/dashboard.png
-```
-
-![Dashboard](./screenshots/dashboard.png)
+<img width="1920" height="1008" alt="UTS_Spark" src="https://github.com/user-attachments/assets/db4ab4af-1742-447e-8dbe-6ca6d9650d09" />
 
 ---
 
